@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">LAT3_AKB11_10116471_SHIYAMROBATOROSYADA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_NAMA">SHIYAM ROBATOROSYADA</string>
+    <string name="nav_header_katabijak">"Terkadang hidup itu sulit kadang terjatuh kadang naik, tapi janganlah lelah untuk berjuang"</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_daily">DailyActivity</string>
+    <string name="menu_teman">Friends List</string>
+    <string name="menu_Music">Music</string>
+    <string name="menu_Video">Video</string>
+    <string name="menu_Profile">Profile</string>
+    <string name="menu_tentang">about</string>
+
+    <string name="data_email"><b>shiyamrobator@gmail.com</b></string>
+    <string name="data_tempatlahir">saya lahir di <b>Majalengka</b> kota <b>Majalengka</b></string>
+    <string name="data_tanggal"> saya lahir tanggal <b>04 Desember 1997 </b></string>
+    <string name="data_pekerjaan">saya seorang <b>Mahasiswa</b></string>
+    <string name="data_makanan">makanan kesukaan saya <b> Sate Ayam</b></string>
+    <string name="data_minuman">Minuman kesukaan saya <b>Kopi,susu, dan es</b></string>
+    <string name="data_citacita">Cita-cita saya menjadi <b>seorang yang bermanfaat bagi bangsa dan negara</b></string>
+
+    <string name="tentang_saya"> Assalamualikum Wr.Wb. Hallo semua nya apa kabar, semoga semuanya baik-baik saja dan
+    selalu dilindungi dengan Tuhan Yang Maha Esa, perkenalkan nama saya Shiyam Robatorosyada tepatnya saya lahir di
+    kota Majalengka pada hari dan tanggal, Kamis 04 Desember 1997. saya sekarang sedang menjadi mahasiswa di Universitas
+    Komputer Indonesia ( UNIKOM), saya bercita-cita ingin menjadi orang yang bermanfaat bagi bangsa dan negara</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
